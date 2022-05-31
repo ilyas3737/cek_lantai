@@ -1,0 +1,26 @@
+D:\ASP .NET\cek_lantai\Cek Lantai\bin\Debug\net6.0\appsettings.Development.json
+D:\ASP .NET\cek_lantai\Cek Lantai\bin\Debug\net6.0\appsettings.json
+D:\ASP .NET\cek_lantai\Cek Lantai\bin\Debug\net6.0\Cek Lantai.staticwebassets.runtime.json
+D:\ASP .NET\cek_lantai\Cek Lantai\bin\Debug\net6.0\Cek Lantai.exe
+D:\ASP .NET\cek_lantai\Cek Lantai\bin\Debug\net6.0\Cek Lantai.deps.json
+D:\ASP .NET\cek_lantai\Cek Lantai\bin\Debug\net6.0\Cek Lantai.runtimeconfig.json
+D:\ASP .NET\cek_lantai\Cek Lantai\bin\Debug\net6.0\Cek Lantai.dll
+D:\ASP .NET\cek_lantai\Cek Lantai\bin\Debug\net6.0\Cek Lantai.pdb
+D:\ASP .NET\cek_lantai\Cek Lantai\obj\Debug\net6.0\Cek Lantai.csproj.AssemblyReference.cache
+D:\ASP .NET\cek_lantai\Cek Lantai\obj\Debug\net6.0\Cek Lantai.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET\cek_lantai\Cek Lantai\obj\Debug\net6.0\Cek Lantai.AssemblyInfoInputs.cache
+D:\ASP .NET\cek_lantai\Cek Lantai\obj\Debug\net6.0\Cek Lantai.AssemblyInfo.cs
+D:\ASP .NET\cek_lantai\Cek Lantai\obj\Debug\net6.0\Cek Lantai.csproj.CoreCompileInputs.cache
+D:\ASP .NET\cek_lantai\Cek Lantai\obj\Debug\net6.0\Cek Lantai.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP .NET\cek_lantai\Cek Lantai\obj\Debug\net6.0\Cek Lantai.RazorAssemblyInfo.cache
+D:\ASP .NET\cek_lantai\Cek Lantai\obj\Debug\net6.0\Cek Lantai.RazorAssemblyInfo.cs
+D:\ASP .NET\cek_lantai\Cek Lantai\obj\Debug\net6.0\staticwebassets.build.json
+D:\ASP .NET\cek_lantai\Cek Lantai\obj\Debug\net6.0\staticwebassets.development.json
+D:\ASP .NET\cek_lantai\Cek Lantai\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ASP .NET\cek_lantai\Cek Lantai\obj\Debug\net6.0\scopedcss\bundle\Cek Lantai.styles.css
+D:\ASP .NET\cek_lantai\Cek Lantai\obj\Debug\net6.0\scopedcss\projectbundle\Cek Lantai.bundle.scp.css
+D:\ASP .NET\cek_lantai\Cek Lantai\obj\Debug\net6.0\Cek Lantai.dll
+D:\ASP .NET\cek_lantai\Cek Lantai\obj\Debug\net6.0\refint\Cek Lantai.dll
+D:\ASP .NET\cek_lantai\Cek Lantai\obj\Debug\net6.0\Cek Lantai.pdb
+D:\ASP .NET\cek_lantai\Cek Lantai\obj\Debug\net6.0\Cek Lantai.genruntimeconfig.cache
+D:\ASP .NET\cek_lantai\Cek Lantai\obj\Debug\net6.0\ref\Cek Lantai.dll
